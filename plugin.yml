@@ -1,0 +1,9 @@
+name: MultiMapsFix
+main: org.codu.minecraft.multimapsfix.MultiMapsFix
+version: 0.1
+
+commands:
+    fixmap:
+        description: Fix and reinitialize a map.
+        permission: multimapsfix.fixmap
+        usage: /fixmap
